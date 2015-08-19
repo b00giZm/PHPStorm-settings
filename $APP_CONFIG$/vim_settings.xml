@@ -1,0 +1,286 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Code/quickcams/bin/blowfish-php/RealBlowfish.class.php" timestamp="1438008212720">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/app/AppKernel.php" timestamp="1437824469103">
+        <mark key="[" line="17" column="80" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/app/Resources/views/base.html.twig" timestamp="1438265482383">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1438345220105">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/src/FrontendBundle/Resources/public/sass/_common.scss" timestamp="1438263757514">
+        <mark key="]" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/apps/users/models/usermodel.js" timestamp="1438179908053">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/src/FrontendBundle/Resources/public/lib/bootstrap.js" timestamp="1438265535504">
+        <mark key="[" line="0" column="101" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/app/config/services.yml" timestamp="1437661514044">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/gulpfile.js" timestamp="1438265696442">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/soap.777live/docs/layout/template/page.funktionen.tpl" timestamp="1437574822435">
+        <mark key="[" line="164" column="75" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/app/config/routing.yml" timestamp="1437824488495">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/app.js" timestamp="1438249525396">
+        <mark key="[" line="149" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/docker-compose.yml" timestamp="1437730896510">
+        <mark key="[" line="24" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/web/js/main.js" timestamp="1437664709730">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/web/js/bootstrap.js" timestamp="1437748357043">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/apps/users/routes.js" timestamp="1438245958317">
+        <mark key="[" line="55" column="18" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/lib/auth.js" timestamp="1438178518116">
+        <mark key="[" line="354" column="11" />
+        <mark key="]" line="351" column="0" />
+        <mark key="." line="351" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/config/common.json" timestamp="1438337342938">
+        <mark key="[" line="252" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/lib/billing.js" timestamp="1438352928144">
+        <mark key="[" line="392" column="0" />
+        <mark key="]" line="392" column="76" />
+        <mark key="." line="314" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/php-fpm/conf/xdebug.ini" timestamp="1437729997171">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/test.js" timestamp="1438086135299">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="41" column="3" />
+        <mark key="." line="41" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/apps/billing/react/billing.js" timestamp="1438352607089">
+        <mark key="[" line="161" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/startup.sh" timestamp="1437661029356">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/lib/middlewares/freeshow.js" timestamp="1438258973861">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/apps/billing/react/forms/phoneform.js" timestamp="1438350844681">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/lib/jobs/syncuser.js" timestamp="1438098420943">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/apps/shows/routes.js" timestamp="1438249041462">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/web/config.js" timestamp="1437748023445">
+        <mark key="[" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/src/AppBundle/Controller/DefaultController.php" timestamp="1437731871793">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/web/js/scss-plugin.js" timestamp="1437747256567">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/app/Resources/views/default/index.html.twig" timestamp="1437748568737">
+        <mark key="[" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/apps/api/billing/routes.js" timestamp="1438347734107">
+        <mark key="[" line="287" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/lib/usermanager.js" timestamp="1438179934873">
+        <mark key="[" line="92" column="40" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/web/lib/bootstrap.js" timestamp="1437745179444">
+        <mark key="[" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/bin/fuck_blowfish" timestamp="1438098452539">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/jetztlive-remote-register/src/bootstrap.php" timestamp="1438246938117">
+        <mark key="[" line="54" column="71" />
+        <mark key="]" line="56" column="78" />
+        <mark key="^" line="56" column="58" />
+        <mark key="." line="56" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/jetztlive-remote-register/src/app.php" timestamp="1438246830121">
+        <mark key="[" line="94" column="73" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1438004543724">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/symfony-boilerplate/myapp/app/AppKernel.php" timestamp="1437558106217">
+        <mark key="[" line="34" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/package.json" timestamp="1438265038267">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/nginx/start.sh" timestamp="1437652432148">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/soap.777live/Capfile" timestamp="1437571129809">
+        <mark key="[" line="23" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/src/FrontendBundle/Resources/public/sass/main.scss" timestamp="1438266257852">
+        <mark key="[" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/apps/billing/react/formmixin.js" timestamp="1438350930283">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/.dockerignore" timestamp="1437652738789">
+        <mark key="[" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/lib/voicesession.js" timestamp="1438352953035">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/apps/billing/react/forms/pinform.js" timestamp="1438347349756">
+        <mark key="[" line="58" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/myapp/.gitignore" timestamp="1437824537912">
+        <mark key="[" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/php-fpm/Dockerfile" timestamp="1437730576885">
+        <mark key="[" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/symfony-boilerplate/nginx/nginx.conf" timestamp="1437651307413">
+        <mark key="[" line="41" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/soap.777live/_classes/soapinterface.class.php" timestamp="1437574995353">
+        <mark key="[" line="315" column="63" />
+      </file>
+      <file name="$USER_HOME$/Code/777user-exporter/fuck_blowfish" timestamp="1438079492683">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/quickcams/apps/billing/react/paymentbox.js" timestamp="1438351075390">
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciB2aXNpdG9yID0gdWEobmNvbmYuZ2V0KCdhcHA6dHJhY2tpbmc6Z29vZ2xlOmFjY291bnRJRCcpLCBjaWQpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciB2aXNpdG9yID0gdWEobmNvbmYuZ2V0KCdhcHA6dHJhY2tpbmc6Z29vZ2xlOmFjY291bnRJRCcpLCBjaWQpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciB2aXNpdG9yID0gdWEobmNvbmYuZ2V0KCdhcHA6dHJhY2tpbmc6Z29vZ2xlOmFjY291bnRJRCcpLCBjaWQpOwogICAgICAgICAgcmVkaXNDbGllbnQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciB2aXNpdG9yID0gdWEobmNvbmYuZ2V0KCdhcHA6dHJhY2tpbmc6Z29vZ2xlOmFjY291bnRJRCcpLCBjaWQpOwoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciB2aXNpdG9yID0gdWEobmNvbmYuZ2V0KCdhcHA6dHJhY2tpbmc6Z29vZ2xlOmFjY291bnRJRCcpLCBjaWQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNlbGYucHJvdmlkZXJNb2RlbC5hc0V2ZW50U3RyZWFtKCdlcnJvcicpLm9uVmFsdWUoZnVuY3Rpb24oKSB7IGNvbnNvbGUubG9nKGFyZ3VtZW50cyk7IH0pOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNlbGYucGF5bWVudE1vZGVsLmFzRXZlbnRTdHJlYW0oJ2Vycm9yJykub25WYWx1ZShmdW5jdGlvbigpIHsgY29uc29sZS5sb2coYXJndW1lbnRzKTsgfSk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+        <entry>wq</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

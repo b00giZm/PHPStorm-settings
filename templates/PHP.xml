@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="_c" value="public function __construct($ARGS$)&#10;{&#10;    $END$&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
