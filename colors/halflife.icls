@@ -1086,11 +1086,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_ENTITY_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="6d9cbe" />
-      </value>
-    </option>
     <option name="XML_PROLOGUE">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
