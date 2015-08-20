@@ -5,6 +5,7 @@
       <mapping pattern="fucking_blowfish" type="Bash" />
       <mapping ext="dust" type="Dust" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="_common" type="SCSS" />
     </extensionMap>
   </component>
