@@ -2,11 +2,11 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="fucking_blowfish" type="Bash" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="_common" type="SCSS" />
       <mapping ext="dust" type="Dust" />
+      <mapping pattern="fucking_blowfish" type="Bash" />
     </extensionMap>
   </component>
 </application>
