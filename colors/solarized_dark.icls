@@ -1584,9 +1584,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_BACKGROUND">
-      <value />
-    </option>
     <option name="JSP_DIRECTIVE_NAME">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -2294,9 +2291,6 @@
       <value>
         <option name="FOREGROUND" value="dc322f" />
       </value>
-    </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="PHP_STRING">
       <value>
@@ -3279,9 +3273,6 @@
         <option name="FOREGROUND" value="268bd2" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
-    </option>
-    <option name="TWIG_BACKGROUND">
-      <value />
     </option>
     <option name="TWIG_BAD_CHARACTER">
       <value>
