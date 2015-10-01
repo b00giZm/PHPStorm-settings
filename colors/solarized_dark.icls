@@ -2292,9 +2292,6 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value />
-    </option>
     <option name="PHP_STRING">
       <value>
         <option name="FOREGROUND" value="2aa198" />
