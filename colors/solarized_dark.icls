@@ -3277,9 +3277,6 @@
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
-    <option name="TWIG_BACKGROUND">
-      <value />
-    </option>
     <option name="TWIG_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
