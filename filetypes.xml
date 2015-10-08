@@ -8,6 +8,7 @@
       <mapping pattern="run" type="Native" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="blackkite" type="PLAIN_TEXT" />
       <mapping pattern="_common" type="SCSS" />
       <mapping ext="dust" type="Dust" />
     </extensionMap>
