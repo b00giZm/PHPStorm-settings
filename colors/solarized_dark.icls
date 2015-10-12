@@ -2814,6 +2814,9 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
+    <option name="SASS_STRING">
+      <value />
+    </option>
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
