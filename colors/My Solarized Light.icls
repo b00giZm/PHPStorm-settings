@@ -286,9 +286,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.THIS">
-      <value />
-    </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="839496" />
@@ -1518,9 +1515,6 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value />
-    </option>
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="dc322f" />
@@ -1961,9 +1955,6 @@
         <option name="FOREGROUND" value="268bd2" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
-    </option>
-    <option name="TWIG_BACKGROUND">
-      <value />
     </option>
     <option name="TWIG_BRACKETS">
       <value>
