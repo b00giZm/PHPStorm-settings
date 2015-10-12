@@ -66,6 +66,9 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
+    </option>
     <option name="BASH.HERE_DOC_END">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -282,6 +285,9 @@
         <option name="FOREGROUND" value="2aa198" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="COFFEESCRIPT.THIS">
+      <value />
     </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
@@ -602,6 +608,9 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
+    <option name="DEFAULT_COMMA">
+      <value />
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -689,6 +698,9 @@
         <option name="FOREGROUND" value="969483" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
@@ -994,6 +1006,9 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="HAML_RUBY_CODE">
+      <value />
+    </option>
     <option name="HAML_RUBY_START">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -1160,6 +1175,9 @@
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="JSP_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="LABEL">
       <value>

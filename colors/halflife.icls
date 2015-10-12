@@ -58,6 +58,9 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value />
+    </option>
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="7d8991" />
@@ -303,6 +306,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_COMMA">
+      <value />
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="7d8991" />
@@ -380,6 +386,9 @@
       <value>
         <option name="FOREGROUND" value="7d8991" />
       </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value />
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
