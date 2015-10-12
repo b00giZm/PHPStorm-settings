@@ -283,9 +283,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.THIS">
-      <value />
-    </option>
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="839496" />
@@ -997,9 +994,6 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE">
-      <value />
-    </option>
     <option name="HAML_RUBY_START">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -1166,9 +1160,6 @@
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="LABEL">
       <value>
@@ -1825,9 +1816,6 @@
         <option name="FOREGROUND" value="cb4b16" />
       </value>
     </option>
-    <option name="SASS_STRING">
-      <value />
-    </option>
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1952,9 +1940,6 @@
         <option name="FOREGROUND" value="268bd2" />
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
-    </option>
-    <option name="TWIG_BACKGROUND">
-      <value />
     </option>
     <option name="TWIG_BRACKETS">
       <value>
