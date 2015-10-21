@@ -1959,6 +1959,9 @@
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
+    <option name="TWIG_BACKGROUND">
+      <value />
+    </option>
     <option name="TWIG_BRACKETS">
       <value>
         <option name="FOREGROUND" value="dc322f" />
