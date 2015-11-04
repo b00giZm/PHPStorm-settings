@@ -1515,6 +1515,9 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
+    </option>
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="dc322f" />
