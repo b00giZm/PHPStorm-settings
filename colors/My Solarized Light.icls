@@ -1154,9 +1154,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="JS.NUMBER">
-      <value />
-    </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="839496" />
@@ -1514,9 +1511,6 @@
       <value>
         <option name="FOREGROUND" value="859900" />
       </value>
-    </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value />
     </option>
     <option name="PHP_TAG">
       <value>
