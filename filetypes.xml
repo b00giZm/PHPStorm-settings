@@ -1,18 +1,19 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="run" type="Bash" />
       <mapping pattern="test" type="Bash" />
-      <mapping pattern="publish" type="Bash" />
+      <mapping pattern="deploy" type="Bash" />
       <mapping pattern="init" type="Bash" />
+      <mapping pattern="publish" type="Bash" />
       <mapping pattern="build" type="Bash" />
       <mapping pattern="start" type="Bash" />
       <mapping ext="tmpl" type="HTML" />
-      <mapping pattern=".babelrc" type="JSON" />
+      <mapping pattern=".apexignore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="start-k8s" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="css-modules-primer.md" type="PLAIN_TEXT" />
