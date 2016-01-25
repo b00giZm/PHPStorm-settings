@@ -1,9 +1,9 @@
 <application>
   <component name="GoLibraries">
     <option name="urls">
-      <set>
+      <list>
         <option value="file://$USER_HOME$/Code/go-workshop" />
-      </set>
+      </list>
     </option>
   </component>
 </application>
