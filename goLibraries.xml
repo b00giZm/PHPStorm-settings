@@ -1,7 +1,9 @@
 <application>
   <component name="GoLibraries">
     <option name="urls">
-      <set />
+      <set>
+        <option value="file://$USER_HOME$/Code/chefkoch/go-projects" />
+      </set>
     </option>
   </component>
 </application>
