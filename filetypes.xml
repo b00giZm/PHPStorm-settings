@@ -2,7 +2,11 @@
   <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping pattern="init" type="Bash" />
+      <mapping pattern="start" type="Bash" />
+      <mapping ext="tmpl" type="HTML" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="css-modules-primer.md" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
     </extensionMap>
