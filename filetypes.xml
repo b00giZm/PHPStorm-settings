@@ -12,6 +12,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="css-modules-primer.md" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
