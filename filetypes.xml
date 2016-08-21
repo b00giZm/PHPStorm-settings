@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="run" type="Bash" />
       <mapping pattern="init" type="Bash" />
       <mapping pattern="start" type="Bash" />
       <mapping ext="tmpl" type="HTML" />
