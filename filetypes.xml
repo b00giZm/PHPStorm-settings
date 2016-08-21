@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="run" type="Bash" />
       <mapping pattern="test" type="Bash" />
+      <mapping pattern="publish" type="Bash" />
       <mapping pattern="init" type="Bash" />
+      <mapping pattern="build" type="Bash" />
       <mapping pattern="start" type="Bash" />
       <mapping ext="tmpl" type="HTML" />
       <mapping pattern=".babelrc" type="JSON" />
